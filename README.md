@@ -1,0 +1,17 @@
+# Agora Vai! (ou não) - Entendendo a Procrastinação: Se eu posso resolver, por que ainda não resolvi?
+
+## 📒 Descrição
+Ebook em tom divertido sobre procrastinação
+
+## 🤖 Tecnologias Utilizadas
+ChatGPT
+Freepik
+Apresentações Google
+
+## 🧐 Processo de Criação
+Você é um psicólogo, muito parecido com House M.D., você vai escrever um ebook de 5 páginas sobre procrastinação. Listar os tópicos que o ebook deverá conter.
+
+## 🚀 Resultados
+Ebook gerado por meio de ChatGPT, com imagem gerada pelo FreePik e ebook formatado no Apresentações Google.
+
+**[LINK do EBOOK:](https://github.com/crisisland/DIO_Ebook/blob/main/Ebook_Entendendo%20a%20procrastina%C3%A7%C3%A3o.pdf)**
